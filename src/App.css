@@ -1,0 +1,73 @@
+body{
+    margin:  0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.todastarefas{
+    width: 400px;
+    height: 750px;
+    background-color: yellow;
+    margin-left: 610px;
+    
+}
+.listaul{
+    width: 300px;
+    height: 400px;
+    background-color: cyan;
+    margin-top: 80px;
+    
+}
+.botaoadd{
+    border-radius: 20px;
+}
+.inputbutton{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.inputinteiro{
+    border-radius: 20px;
+}
+*{
+    list-style: none;
+}
+.inputdata{
+    text-align: center;
+}
+.imagem{
+    width: 100px;
+    height: 50px;
+    transform: rotateX(90°);
+}
+
+.divdetalhe{
+    width: 280px;
+    height: 15px;
+    background-color: black;
+    margin-left: 20px;
+}
+.divdetalhe2{
+    width: 15px;
+    height: 355px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: 20px;
+    position: absolute;
+}
+.imager{
+    width: 10px;
+    height: 10px;
+}
+/* Hide the default checkbox */
+
+  .botaoreativo{
+    font-size: 30px;
+    background-color: cyan;
+    
+    
+    
+    
+
+  }
